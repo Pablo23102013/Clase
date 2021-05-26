@@ -1,4 +1,4 @@
-package Debora;
+
 import java.util.Scanner;
 public class Notas {
 
