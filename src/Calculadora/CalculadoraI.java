@@ -87,6 +87,7 @@ private JLabel Etiqueta2;
               int resultado=valor1+valor2;
               String txtresultado = String.valueOf(resultado);
               TResutado.setText(txtresultado);
+              System.out.println("");
               
           }
       });
